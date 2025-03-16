@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Tutorial 03 Simple Calculator</string>
+    <string name="label_number1">Number 1</string>
+    <string name="label_number2">Number 2</string>
+    <string name="edit_number1">23</string>
+    <string name="edit_number2">12</string>
+    <string name="btn_Plus">+</string>
+    <string name="btn_Minus">-</string>
+    <string name="btn_Multiply">x</string>
+    <string name="btn_Divide">/</string>
+</resources>
